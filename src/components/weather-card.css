@@ -1,0 +1,50 @@
+.card{
+    color: #fff;
+    position:relative;
+    display: flex;
+    height: 120px;
+    width: 220px;
+    margin: 10px 20px;
+    background-color: #8BC6EC;
+    padding: 10px;
+    border-radius: 20px;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+
+}
+.img{
+    position: absolute;
+    left: -20px;
+    width: 100px;
+}
+.city{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+.temp{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    right: 20px;
+    bottom: 50px;
+    font-size: 25px;
+
+}
+.weather
+{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
