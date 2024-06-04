@@ -1,4 +1,4 @@
-### Looping Over Cards
+# Looping Over Cards
 I have created Weather Cards to practice **mapping function**.
 
 ### About:
